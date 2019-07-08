@@ -1,1 +1,1 @@
-Hi this gittut2. Editing from github.
+Hi this gittut2. Editing from github. Now I am checking with git Diff command.
